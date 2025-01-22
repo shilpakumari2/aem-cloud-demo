@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--aem-cloud-demo--parvathisomanahallicnx.aem.live/
-- After: https://<branch>--aem-cloud-demo--parvathisomanahallicnx.aem.live/
+- Before: https://main--aem-block-collection--adobe.hlx.page
+- After: https://<branch>--aem-block-collection--adobe.hlx.page
